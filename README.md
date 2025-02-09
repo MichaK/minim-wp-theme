@@ -1,3 +1,11 @@
+# Wishlist 
+
+addional Widget Areas
+feature Image
+CSS effects
+
+
+
 # minim wp theme
 
 minimalistic photo blog theme for [WordPress](https://wordpress.org) - view a live example here: https://photo.e33.io
